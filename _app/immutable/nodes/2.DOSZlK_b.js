@@ -1,1 +1,0 @@
-import{f as i,s as e,a as r,t as s}from"../chunks/disclose-version.7pAdS7xy.js";var p=s('<h1>Welcome to SvelteKit</h1> <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>',1);function v(a){var t=p(),o=i(t);e(e(o,!0)),r(a,t)}export{v as component};

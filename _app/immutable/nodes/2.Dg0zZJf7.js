@@ -1,0 +1,1 @@
+import{a as e,t as p}from"../chunks/disclose-version.7pAdS7xy.js";var i=p('<div class="main svelte-2spcxi"><h1 class="svelte-2spcxi">Squad.</h1> <p>Squad is an app to generate randomised teams from a list of players.</p> <a href="/privacy" class="svelte-2spcxi">Privacy Policy</a></div>');function o(a){var s=i();e(a,s)}export{o as component};
